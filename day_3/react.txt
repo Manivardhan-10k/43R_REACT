@@ -1,0 +1,79 @@
+REACT 
+
+what?
+it is a js library 
+
+to build applications(apps)- web 
+youtube
+login
+categories
+sidebar 
+
+
+
+Why?
+subscribe
+fav
+genre
+
+
+for hadling complex logics /features 
+
+
+
+
+
+
+
+How?
+
+
+
+MVC 
+
+model  view controller
+
+
+
+MVT
+model view template
+
+
+
+DOM 
+document object model 
+
+manipulate the document(html page)
+
+
+
+virtual DOM 
+
+
+angular 
+
+express
+
+
+next vue  
+chart
+
+
+
+collection modules  -> library
+collection of libraries ->  framework
+
+
+
+npm -> node package manager
+create-> new app
+
+vite@latest  -> vite with latest features
+
+
+
+component 
+
+it is reusable piece of code
+
+

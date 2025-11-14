@@ -1,0 +1,63 @@
+make biryani 
+ingredients 
+making process
+environment(setup)
+
+
+pre requisites:
+advanced JS
+modules
+
+
+    
+REACT JS->IT is a javascript library 
+
+it is build on top of JS
+
+
+
+
+module-> it  is  a file containg functions ,variables, classes  of certain functionality
+
+
+
+library-> it is a collection of modules 
+
+
+
+framework-> it is collection of libraries 
+
+
+
+
+
+
+html
+css 
+js
+
+
+updation 
+crud
+
+html + css+ js
+
+export -> sending from one place to another
+
+import -> receiving
+
+
+
+types of exports are 2 types 
+1. named  -> we should import it with curly braces
+2. default  -> we can import it with any name 
+
+
+
+filter,map ,for each 
+
+
+
+filter -> condition 
+
+

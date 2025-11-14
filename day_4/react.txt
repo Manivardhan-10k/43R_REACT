@@ -1,0 +1,60 @@
+what is react?
+it is a js library  
+used for building single page applications
+
+
+why?
+simplifies the logic 
+
+
+how?
+
+
+node modules ->  dependencies for the react
+
+
+JSX->java script xml  
+
+component ->
+
+ecom 
+login
+signup
+cart
+products
+
+2021 
+
+code + features
+
+
+2025
+
+reels
+acc
+msgs
+stories
+saved
+
+
+VDOM
+-> it is a light weight representation of real dom
+
+
+html css js 
+
+JSX
+by default browsers can't understand the jsx 
+
+
+
+
+react   train
+
+chat gpt   react
+
+
+
+compiler -> user > machine code
+
+transpiler -> format   > js + html 

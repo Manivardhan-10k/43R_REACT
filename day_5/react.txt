@@ -1,0 +1,17 @@
+react :
+babel :
+compiler: converts the syntax to bytecode
+transpiler  : it converts syntax to another form 
+
+esbuild
+jsx  ->  js 
+
+features:
+component 
+vDOM
+JSX 
+unidirectional / one way data binding 
+hooks (functional comp)
+
+
+a piece of code for specific functionality
