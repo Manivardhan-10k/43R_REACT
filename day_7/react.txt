@@ -1,0 +1,13 @@
+props
+
+properties 
+
+data passed to a component 
+
+
+<Comp  var={data}/>  // in parent component
+
+
+{this.props.var}  // in child component
+
+
