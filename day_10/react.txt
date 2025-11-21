@@ -1,0 +1,88 @@
+conditional rendering 
+
+
+
+to display the content  based on a condition 
+
+
+if else
+
+ternary 
+
+condition &&   code to render 
+ 
+
+
+based on cond 
+
+login 
+
+logout
+
+
+
+
+
+
+birth     --- created in browser
+
+
+
+
+study   -  update
+
+job
+
+
+death  -  end
+
+
+
+
+MOUNTING PHASE 
+
+
+INIT    - constructor
+
+RENDER 
+
+
+COMPONENT DID MOUNT  -- for side effects
+
+
+
+
+
+
+PRODUCTS FAKE STORE API   -> FETCH  -> SERVER  -> PROCESS -> RESPONSE
+
+
+
+main effect:
+component load
+
+side effects: 
+api calls , async function
+
+
+
+
+
+
+conditinal rendering 
+
+list rendering 
+
+
+keys -> to identify  a elment uniquely
+
+v-dom 
+diffing  - to compare the changes 
+reconscilation - to update the changed elements
+
+
+
+
+life cycle methods 
+
+mounting phase
