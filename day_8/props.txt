@@ -1,0 +1,11 @@
+props:
+properties
+
+the data shared between the components 
+
+reuse the logic 
+
+
+
+general props 
+
