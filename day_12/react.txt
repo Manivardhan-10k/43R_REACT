@@ -1,0 +1,66 @@
+life cycle methods in class based components 
+
+
+mounting ->
+when the component is loaded in the browser(rendering)
+constructor
+
+render 
+
+
+component did mount : for side effects (5 secs)
+set timeout
+
+
+updating
+component should update 
+
+
+
+render 
+
+
+
+component did update
+
+
+
+
+
+
+unmounting
+componentwillunmount()
+
+
+CORS  -> Cross Origin Resource Sharing 
+
+
+
+
+1xx  - informational
+2xx  - success
+3xx  - redirectional
+4xx  - client side errors
+5xx  - server side error
+
+
+text format 
+
+a=null
+
+b=a??0
+
+
+
+
+
+library="react"
+
+
+library="react"
+
+
+
+
+
+

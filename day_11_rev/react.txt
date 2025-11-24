@@ -1,0 +1,30 @@
+react: 
+it is a js library used to build single page application (SPA)
+
+
+why?
+
+for writing /handling complex logics
+
+
+
+
+
+val=20 
+
+prev=20  new=30 
+ 
+
+
+
+30 
+
+
+
+
+how?
+node 
+npm 
+
+
+
