@@ -99,12 +99,10 @@
 import { Component } from "react";
 import Sample from "./Sample";
 import Sample2 from "./Sample2";
-
 class UnmountExample extends Component {
       state={
         change:false
     }
-
     componentDidMount=()=>{
       setTimeout(()=>{
         this.setState({change:true})
@@ -113,13 +111,9 @@ class UnmountExample extends Component {
   render() {
     return (
     <div>
-
-      {this.state.change?<Sample2/> :<Sample/>}
+      { this.state.change? <Sample2/> : <Sample/> }
     </div>
     )
   }
 }
-
-
-
 export default UnmountExample

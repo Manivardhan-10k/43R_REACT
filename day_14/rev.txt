@@ -1,0 +1,80 @@
+components
+class :
+
+class name   extends       React.component{
+
+
+fetch(api)
+
+
+
+
+
+
+
+
+
+    render(){
+
+        return (
+            <>jsx</>
+        )
+
+
+    }
+
+
+
+}
+
+
+
+
+
+
+functional
+life cycle methods 
+
+mounting:
+
+constructor
+
+render()
+
+component did mount  -  side effects
+
+
+updating
+
+component did update
+render  
+component should update (prev, cur props)
+
+
+
+unmounting
+component will unmount
+
+
+
+
+
+register
+
+
+
+
+login 
+
+not registered
+
+
+username
+password
+homepage
+
+
+
+
+function based component 
+
